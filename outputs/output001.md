@@ -1,3 +1,4 @@
+```
 Build started at 15:20...
   GET https://api.nuget.org/v3/vulnerabilities/index.json
   OK https://api.nuget.org/v3/vulnerabilities/index.json 324ms
@@ -24,3 +25,4 @@ Build started at 15:20...
 1>Time Elapsed 00:00:00.69
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 ========== Build completed at 15:20 and took 04,689 seconds ==========
+```
